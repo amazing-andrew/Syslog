@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syslog", "Syslog\Syslog.csproj", "{52C35B7F-4611-46D2-9144-773D6A71C8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syslog.Server", "Syslog.Server\Syslog.Server.csproj", "{BFF4889F-A24C-4650-92B4-178148D7F5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syslog.Test", "Syslog.Test\Syslog.Test.csproj", "{287396B8-53D0-43E4-BD1A-4DB8AB79BA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C35B7F-4611-46D2-9144-773D6A71C8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C35B7F-4611-46D2-9144-773D6A71C8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C35B7F-4611-46D2-9144-773D6A71C8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C35B7F-4611-46D2-9144-773D6A71C8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF4889F-A24C-4650-92B4-178148D7F5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF4889F-A24C-4650-92B4-178148D7F5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF4889F-A24C-4650-92B4-178148D7F5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF4889F-A24C-4650-92B4-178148D7F5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287396B8-53D0-43E4-BD1A-4DB8AB79BA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287396B8-53D0-43E4-BD1A-4DB8AB79BA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287396B8-53D0-43E4-BD1A-4DB8AB79BA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287396B8-53D0-43E4-BD1A-4DB8AB79BA71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
