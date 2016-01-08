@@ -1,4 +1,4 @@
 Syslog
 ======
 
-My syslog library
+Implementing a syslog parser and syslogging framework
